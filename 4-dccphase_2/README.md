@@ -39,4 +39,3 @@ Learn how to build and tune predictive models and evaluate how well they'll perf
 ### 7. Unsupervised Learning in Python:
 
 Learn how to cluster, transform, visualize, and extract insights from unlabeled datasets
-
