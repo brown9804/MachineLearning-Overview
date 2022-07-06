@@ -38,5 +38,3 @@ Build the foundation you need to think statistically and to speak the language o
 ### 7. Statistical Thinking in Python (Part 2):
 
 Learn to perform the two key tasks in statistical inference: parameter estimation and hypothesis, etc.
-
-
