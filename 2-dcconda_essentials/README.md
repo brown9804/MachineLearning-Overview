@@ -19,5 +19,3 @@ Feb, 2021
 ### 3. Working with Environments
 
 ### 4. Case Study on Using Environments
-
-
