@@ -35,7 +35,6 @@ Learn how to build a model to automatically classify items in a school budget.
 
 Learn the fundamentals of gradient boosting and build state-of-the-art machine learning models using XGBoost.
 
-
 ### 6. Linear Classifiers in Python
 
 In this course you will learn the details of linear classifiers like logistic regression and SVM.
