@@ -38,3 +38,10 @@ Build the foundation you need to think statistically and to speak the language o
 ### 7. Statistical Thinking in Python (Part 2):
 
 Learn to perform the two key tasks in statistical inference: parameter estimation and hypothesis, etc.
+
+### 8. Azure Essentials: Data Analytics
+
+[Click here to go the Youtube Video](https://www.youtube.com/watch?v=hspxbpgte1g)
+
+![Important Azure Essentials Resume ](https://github.com/brown9804/ML_DS_path/blob/main/0-dclevel_1/_docs/8_az_data_analytics.png)
+
