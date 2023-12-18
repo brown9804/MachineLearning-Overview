@@ -1,4 +1,4 @@
-# 7 of 10 Trainings 
+# Data Scientist - Level 1
 
 ----------
 
