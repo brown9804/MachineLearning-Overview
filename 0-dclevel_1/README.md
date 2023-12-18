@@ -1,4 +1,4 @@
-# 7 of 10 Trainings - Mark Completion back in MyLearning
+# 7 of 10 Trainings 
 
 ----------
 
