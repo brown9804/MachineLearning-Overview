@@ -27,5 +27,5 @@ A Conda package, then, is a file containing all files needed to make a given pro
 
 - [Installing Packages](https://github.com/brown9804/ML_DS_Lpath/blob/main/2-dcconda_essentials/src/1_install_pckgs.sh)
 - [Utilizing Channels](https://github.com/brown9804/ML_DS_Lpath/blob/main/2-dcconda_essentials/src/2_use_channels.sh)
-- [Working with Environments](
-- [Case Study on Using Environments](
+- [Working with Environments](https://github.com/brown9804/ML_DS_Lpath/blob/main/2-dcconda_essentials/src/3_work_envs.sh)
+- [Case Study on Using Environments](https://github.com/brown9804/ML_DS_Lpath/blob/main/2-dcconda_essentials/src/4_use_envs.sh)
