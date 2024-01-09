@@ -27,5 +27,5 @@ Anaconda projects are shared amongst data scientists as compressed directories c
 ## Courses:
 
 - [Anaconda Project](https://github.com/brown9804/ML_DS_Lpath/blob/main/3-dcbuilding_distributing_pack_conda/src/0_anaconda_project.sh)
-- [Python Packages](
-- [Conda Packages](
+- [Python Packages](https://github.com/brown9804/ML_DS_Lpath/blob/main/3-dcbuilding_distributing_pack_conda/src/1_python_pckgs.sh)
+- [Conda Packages](https://github.com/brown9804/ML_DS_Lpath/blob/main/3-dcbuilding_distributing_pack_conda/src/2_conda_pckgs.sh)
