@@ -66,12 +66,12 @@ This folder contains all Microsoft badges and trophies earned during the learnin
 47. [Orchestrate machine learning with pipelines](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/47-Orchestrate%20machine%20learning%20with%20pipelines.pdf)
 48. [Deploy real-time machine learning services with Azure Machine Learning](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/48-Deploy%20real-time%20machine%20learning%20services%20with%20Azure%20Machine%20Learning.pdf)
 49. [Deploy batch inference pipelines with Azure Machine Learning](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/49-Deploy%20batch%20inference%20pipelines%20with%20Azure%20Machine%20Learning.pdf)
-50. [Tune hyperparameters with Azure Machine Learning](
-51. [Automate machine learning model selection with Azure Machine Learning](
-52. [Explore differential privacy](
-53. [Explain machine learning models with Azure Machine Learning]
-54. [Detect and mitigate unfairness in models with Azure Machine Learning](
-55. [Monitor models with Azure Machine Learning](
-56. [Monitor data drift with Azure Machine Learning](
-57. [Explore security concepts in Azure Machine Learning](
-58. [Introduction to Azure Database for PostgreSQL](
+50. [Tune hyperparameters with Azure Machine Learning](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/50-Tune%20hyperparameters%20with%20Azure%20Machine%20Learning.pdf)
+51. [Automate machine learning model selection with Azure Machine Learning](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/51-Automate%20machine%20learning%20model%20selection%20with%20Azure%20Machine%20Learning.pdf)
+52. [Explore differential privacy](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/52-Explore%20differential%20privacy.pdf)
+53. [Explain machine learning models with Azure Machine Learning](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/53-Explain%20machine%20learning%20models%20with%20Azure%20Machine%20Learning.pdf)
+54. [Detect and mitigate unfairness in models with Azure Machine Learning](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/54-Detect%20and%20mitigate%20unfairness%20in%20models%20with%20Azure%20Machine%20Learning.pdf)
+55. [Monitor models with Azure Machine Learning](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/55-Monitor%20models%20with%20Azure%20Machine%20Learning.pdf)
+56. [Monitor data drift with Azure Machine Learning](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/56-Monitor%20data%20drift%20with%20Azure%20Machine%20Learning.pdf)
+57. [Explore security concepts in Azure Machine Learning](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/57-Explore%20security%20concepts%20in%20Azure%20Machine%20Learning.pdf)
+58. [Introduction to Azure Database for PostgreSQL](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/58-Introduction%20to%20Azure%20Database%20for%20PostgreSQL.pdf)
