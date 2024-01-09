@@ -15,6 +15,13 @@ October, 2020
 
 This folder contains all Microsoft badges and trophies earned during the learning path.
 
+## Learning Path Trophies
+0. [Store data in Azure](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/1_trophies/0-Store%20data%20in%20Azure.pdf)
+1. [Large-Scale Data Processing with Azure Data Lake Storage Gen2](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/1_trophies/1-Large-Scale%20Data%20Processing%20with%20Azure%20Data%20Lake%20Storage%20Gen2.pdf)
+2. [Azure Fundamentals part 1 Describe core Azure concepts](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/1_trophies/2-Azure%20Fundamentals%20part%201%20Describe%20core%20Azure%20concepts.pdf)
+3. [Azure Fundamentals part 2 Describe core Azure concepts](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/1_trophies/3-Azure%20Fundamentals%20part%202%20Describe%20core%20Azure%20concepts.pdf)
+
+
 ## Courses Badges 
 0. [Explore what Power BI can do for you](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/0-Explore%20what%20Power%20BI%20can%20do%20for%20you.pdf)
 1. [Choose a data storage approach in Azure](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/1-Choose%20a%20data%20storage%20approach%20in%20Azure.pdf)
