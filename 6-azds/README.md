@@ -30,3 +30,9 @@ This folder contains all Microsoft badges and trophies earned during the learnin
 11. [Secure your Azure SQL Database](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/11-Secure%20your%20Azure%20SQL%20Database.pdf)
 12. [Develop and configure an ASP.NET application that queries an Azure SQL database](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/12-Develop%20and%20configure%20an%20ASP.NET%20application%20that%20queries%20an%20Azure%20SQL%20database.pdf)
 13. [Introduction to Azure fundamentals](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/13-Introduction%20to%20Azure%20fundamentals.pdf)
+14. [Discuss Azure fundamental concepts](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/14-Discuss%20Azure%20fundamental%20concepts.pdf)
+15. [Describe core Azure architectural components](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/15-Describe%20core%20Azure%20architectural%20components.pdf)
+16. [Explore Azure database and analytics services](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/16-Explore%20Azure%20database%20and%20analytics%20services.pdf)
+17. [Explore Azure compute service](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/17-Explore%20Azure%20compute%20services.pdf)
+18. [Explore Azure Storage services](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/18-Explore%20Azure%20Storage%20services.pdf)
+19. [Explore Azure networking services](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/19-Explore%20Azure%20networking%20services.pdf
