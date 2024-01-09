@@ -35,4 +35,49 @@ This folder contains all Microsoft badges and trophies earned during the learnin
 16. [Explore Azure database and analytics services](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/16-Explore%20Azure%20database%20and%20analytics%20services.pdf)
 17. [Explore Azure compute service](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/17-Explore%20Azure%20compute%20services.pdf)
 18. [Explore Azure Storage services](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/18-Explore%20Azure%20Storage%20services.pdf)
-19. [Explore Azure networking services](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/19-Explore%20Azure%20networking%20services.pdf
+19. [Explore Azure networking services](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/19-Explore%20Azure%20networking%20services.pdf)
+20. [Choose the best AI service for your needs](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/20-Choose%20the%20best%20AI%20service%20for%20your%20needs.pdf)
+21. [Choose the best tools to help organizations build better solutions](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/21-Choose%20the%20best%20tools%20to%20help%20organizations%20build%20better%20solutions.pdf)
+22. [Choose the best monitoring service for visibility, insight, and outage mitigation](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/22-Choose%20the%20best%20monitoring%20service%20for%20visibility%2C%20insight%2C%20and%20outage%20mitigation.pdf)
+23. [Choose the best tools for managing and configuring your Azure environment](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/23-Choose%20the%20best%20tools%20for%20managing%20and%20configuring%20your%20Azure%20environment.pdf)
+24. [Choose the best Azure serverless technology for your business scenario](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/24-Choose%20the%20best%20Azure%20serverless%20technology%20for%20your%20business%20scenario.pdf)
+25. [Choose the best Azure IoT service for your application](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/25-Choose%20the%20best%20Azure%20IoT%20service%20for%20your%20application.pdf)
+26. [Protect against security threats on Azure](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/26-Protect%20against%20security%20threats%20on%20Azure.pdf)
+27. [Secure network connectivity on Azure](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/27-Secure%20network%20connectivity%20on%20Azure.pdf)
+28. [Secure access to your applications by using Azure identity services](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/28-Secure%20access%20to%20your%20applications%20by%20using%20Azure%20identity%20services.pdf)
+29. [Build a cloud governance strategy on Azure](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/29-Build%20a%20cloud%20governance%20strategy%20on%20Azure.pdf)
+30. [Examine privacy, compliance, and data protection standards on Azure](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/30-Examine%20privacy%2C%20compliance%2C%20and%20data%20protection%20standards%20on%20Azure.pdf)
+31. [Plan and manage your Azure costs](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/31-Plan%20and%20manage%20your%20Azure%20costs.pdf)
+32. [Choose the right Azure services by examining SLAs and service lifecycle](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/32-Choose%20the%20right%20Azure%20services%20by%20examining%20SLAs%20and%20service%20lifecycle.pdf)
+33. [Get data with Power BI Desktop](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/33-Get%20data%20with%20Power%20BI%20Desktop.pdf)
+34. [Describe Power BI Desktop models](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/34-Describe%20Power%20BI%20Desktop%20models.pdf)
+35. [Model data in Power BI](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/35-Model%20data%20in%20Power%20BI.pdf)
+36. [Use visuals in Power BI](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/36-Use%20visuals%20in%20Power%20BI.pdf)
+37. [Explore data in Power BI](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/37-Explore%20data%20in%20Power%20BI.pdf)
+38. [Explore and analyze data with Python](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/38-Explore%20and%20analyze%20data%20with%20Python.pdf)
+39. [Train and evaluate regression models](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/39-Train%20and%20evaluate%20regression%20models.pdf)
+40. [Connect an app to Azure Storage](
+41. [Train and evaluate classification models](
+42. [Train and evaluate clustering models](
+43. [Train and evaluate deep learning models](
+44. [Introduction to the Azure Machine Learning SDK](
+45. [Train a machine learning model with Azure Machine Learning](
+46. [Work with Data in Azure Machine Learning](
+47. [Work with Compute in Azure Machine Learning](
+48. [Orchestrate machine learning with pipelines](
+49. [Deploy real-time machine learning services with Azure Machine Learning](
+50. [Deploy batch inference pipelines with Azure Machine Learning](
+51. [Secure your Azure Storage account](
+52. [Tune hyperparameters with Azure Machine Learning](
+53. [Automate machine learning model selection with Azure Machine Learning](
+54. [Explore differential privacy](
+55. [Explain machine learning models with Azure Machine Learning](
+56. [Detect and mitigate unfairness in models with Azure Machine Learning](
+57. [Monitor models with Azure Machine Learning](
+58. [Monitor data drift with Azure Machine Learning](
+59. [Explore security concepts in Azure Machine Learning](
+60. [Introduction to Azure Database for PostgreSQL](
+61. [Store application data with Azure Blob storage](
+62. [Introduction to Azure Data Lake storage](
+63. [Upload data to Azure Data Lake Storage](
+64. [Migrate your relational data stored in SQL Server to Azure SQL Database](
