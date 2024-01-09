@@ -15,7 +15,7 @@ October, 2020
 
 This folder contains all Microsoft badges and trophies earned during the learning path.
 
-## Badges 
+## Courses Badges 
 0. [Explore what Power BI can do for you](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/0-Explore%20what%20Power%20BI%20can%20do%20for%20you.pdf)
 1. [Choose a data storage approach in Azure](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/1-Choose%20a%20data%20storage%20approach%20in%20Azure.pdf)
 2. [Provision an Azure SQL database to store application data](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/2-Provision%20an%20Azure%20SQL%20database%20to%20store%20application%20data.pdf)
@@ -56,28 +56,22 @@ This folder contains all Microsoft badges and trophies earned during the learnin
 37. [Explore data in Power BI](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/37-Explore%20data%20in%20Power%20BI.pdf)
 38. [Explore and analyze data with Python](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/38-Explore%20and%20analyze%20data%20with%20Python.pdf)
 39. [Train and evaluate regression models](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/39-Train%20and%20evaluate%20regression%20models.pdf)
-40. [Connect an app to Azure Storage](
-41. [Train and evaluate classification models](
-42. [Train and evaluate clustering models](
-43. [Train and evaluate deep learning models](
-44. [Introduction to the Azure Machine Learning SDK](
-45. [Train a machine learning model with Azure Machine Learning](
-46. [Work with Data in Azure Machine Learning](
-47. [Work with Compute in Azure Machine Learning](
-48. [Orchestrate machine learning with pipelines](
-49. [Deploy real-time machine learning services with Azure Machine Learning](
-50. [Deploy batch inference pipelines with Azure Machine Learning](
-51. [Secure your Azure Storage account](
-52. [Tune hyperparameters with Azure Machine Learning](
-53. [Automate machine learning model selection with Azure Machine Learning](
-54. [Explore differential privacy](
-55. [Explain machine learning models with Azure Machine Learning](
-56. [Detect and mitigate unfairness in models with Azure Machine Learning](
-57. [Monitor models with Azure Machine Learning](
-58. [Monitor data drift with Azure Machine Learning](
-59. [Explore security concepts in Azure Machine Learning](
-60. [Introduction to Azure Database for PostgreSQL](
-61. [Store application data with Azure Blob storage](
-62. [Introduction to Azure Data Lake storage](
-63. [Upload data to Azure Data Lake Storage](
-64. [Migrate your relational data stored in SQL Server to Azure SQL Database](
+40. [Train and evaluate classification models](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/40-Train%20and%20evaluate%20classification%20models.pdf)
+41. [Train and evaluate clustering models](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/41-Train%20and%20evaluate%20clustering%20models.pdf)
+42. [Train and evaluate deep learning models](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/42-Train%20and%20evaluate%20deep%20learning%20models.pdf)
+43. [Introduction to the Azure Machine Learning SDK](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/43-Introduction%20to%20the%20Azure%20Machine%20Learning%20SDK.pdf)
+44. [Train a machine learning model with Azure Machine Learning](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/44-Train%20a%20machine%20learning%20model%20with%20Azure%20Machine%20Learning.pdf)
+45. [Work with Data in Azure Machine Learning](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/45-Work%20with%20Data%20in%20Azure%20Machine%20Learning.pdf)
+46. [Work with Compute in Azure Machine Learning](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/46-Work%20with%20Compute%20in%20Azure%20Machine%20Learning.pdf)
+47. [Orchestrate machine learning with pipelines](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/47-Orchestrate%20machine%20learning%20with%20pipelines.pdf)
+48. [Deploy real-time machine learning services with Azure Machine Learning](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/48-Deploy%20real-time%20machine%20learning%20services%20with%20Azure%20Machine%20Learning.pdf)
+49. [Deploy batch inference pipelines with Azure Machine Learning](https://github.com/brown9804/ML_DS_Lpath/blob/main/6-azds/0_badges/49-Deploy%20batch%20inference%20pipelines%20with%20Azure%20Machine%20Learning.pdf)
+50. [Tune hyperparameters with Azure Machine Learning](
+51. [Automate machine learning model selection with Azure Machine Learning](
+52. [Explore differential privacy](
+53. [Explain machine learning models with Azure Machine Learning]
+54. [Detect and mitigate unfairness in models with Azure Machine Learning](
+55. [Monitor models with Azure Machine Learning](
+56. [Monitor data drift with Azure Machine Learning](
+57. [Explore security concepts in Azure Machine Learning](
+58. [Introduction to Azure Database for PostgreSQL](
