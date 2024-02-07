@@ -17,6 +17,9 @@ Jan, 2021
 
 ----------
 
+<img width="500" alt="image" src="https://github.com/brown9804/ML_DS_Lpath/assets/24630902/3f8aca3f-4e3d-42d5-a981-8dab8c645777">
+
+
 ## Content 
 
 - Understanding Conda Essential - [Level 0](https://github.com/brown9804/ML_DS_Lpath/tree/main/2-dcconda_essentials)
@@ -37,6 +40,8 @@ Learning ML concepts and design simple algorithms using Matlab, Octave, Python, 
 - [Install Python >= 3](https://docs.python.org/3/using/windows.html) <br/>
 - [Install SQL](https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server-from-the-command-prompt?view=sql-server-ver15) <br/>
 
+## Wiki 
 
+- [Understanding the Data Science Lifecycle](https://www.sudeep.co/data-science/2018/02/09/Understanding-the-Data-Science-Lifecycle.html)
 
 
