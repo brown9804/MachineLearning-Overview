@@ -14,6 +14,7 @@ Belinda Brown, belindabrownr04@gmail.com
 [brown9804](https://github.com/brown9804)
 
 Last update: June, 2024
+
 ----------
 
 <img width="500" alt="image" src="https://github.com/brown9804/ML_DS_Lpath/assets/24630902/3f8aca3f-4e3d-42d5-a981-8dab8c645777">
