@@ -28,7 +28,7 @@ Last update: June, 2024
 - DS/DE - Learning Path [Level 1](https://github.com/brown9804/ML_DS_Lpath/tree/main/1-dccphase_1)
 - DS/DE - Learning Path [Level 2](https://github.com/brown9804/ML_DS_Lpath/tree/main/4-dccphase_2)
 - DS/DE - Learning Path [Level 3](https://github.com/brown9804/ML_DS_Lpath/tree/main/5-dcml)
-- DS/DE - Learning Path [Level 4](https://github.com/brown9804/ML_DS_Lpath/tree/main/6-azds)
+- DS/DE - Learning Path [Level 4](https://github.com/brown9804/MSCloudEssentials_LPath/tree/main/0_Azure/_certifications/AzureAIMLDSpath)
 
 ## Learning and Training Path
 
