@@ -1,21 +1,23 @@
-# Machine Learning Initial Path - DS/DE
+# Machine Learning Initial Path 
+## For Data Scientists and Data Engineers
 
-> The use and development of computer systems that are able to learn and adapt without following explicit instructions, 
-> by using algorithms and statistical models to analyze and draw inferences from patterns in data.
-> > Oxford Definiton
-
-----------
-
-Costa Rica
-
-Belinda Brown, belindabrownr04@gmail.com
+Costa Rica 
 
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [brown9804](https://github.com/brown9804)
 
-Last update: June, 2024
+Last updated: 2015-04-14
 
-----------
+------------------------------------------
+
+<div align="center">
+  <h3 style="color: #4CAF50;">Total Visitors</h3>
+  <img src="https://profile-counter.glitch.me/brown9804/count.svg" alt="Visitor Count" style="border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
+</div>
+
+> The use and development of computer systems that are able to learn and adapt without following explicit instructions, 
+> by using algorithms and statistical models to analyze and draw inferences from patterns in data.
+> > Oxford Definiton
 
 <img width="500" alt="image" src="https://github.com/brown9804/ML_DS_Lpath/assets/24630902/3f8aca3f-4e3d-42d5-a981-8dab8c645777">
 
