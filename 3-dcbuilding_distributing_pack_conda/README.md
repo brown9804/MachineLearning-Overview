@@ -1,19 +1,11 @@
 # Building and Distributing Packages with Conda
 
-Used for Data Scientist Training Path 
-
-`FYI it's a compilation of how to work with different commands.`
-
-----------
-
 Costa Rica
-
-Belinda Brown, belindabrownr04@gmail.com
 
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [brown9804](https://github.com/brown9804)
 
-Feb, 2021
+March, 2021
 
 ----------
 
@@ -26,6 +18,13 @@ Anaconda projects are shared amongst data scientists as compressed directories c
 
 ## Courses:
 
-- [Anaconda Project](https://github.com/brown9804/ML_DS_Lpath/blob/main/3-dcbuilding_distributing_pack_conda/src/0_anaconda_project.sh)
-- [Python Packages](https://github.com/brown9804/ML_DS_Lpath/blob/main/3-dcbuilding_distributing_pack_conda/src/1_python_pckgs.sh)
-- [Conda Packages](https://github.com/brown9804/ML_DS_Lpath/blob/main/3-dcbuilding_distributing_pack_conda/src/2_conda_pckgs.sh)
+- [Anaconda Project](./3-dcbuilding_distributing_pack_conda/src/0_anaconda_project.sh)
+- [Python Packages](./3-dcbuilding_distributing_pack_conda/src/1_python_pckgs.sh)
+- [Conda Packages](./3-dcbuilding_distributing_pack_conda/src/2_conda_pckgs.sh)
+
+<!-- START BADGE -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20views-1022-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-07-11</p>
+</div>
+<!-- END BADGE -->

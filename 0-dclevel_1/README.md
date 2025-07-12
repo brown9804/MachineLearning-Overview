@@ -1,10 +1,6 @@
 # Data Scientist - Level 1
 
-----------
-
 Costa Rica
-
-Belinda Brown, belindabrownr04@gmail.com
 
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [brown9804](https://github.com/brown9804) 
@@ -25,3 +21,10 @@ Jan, 2021
 
 ![Important Azure Essentials Resume](https://github.com/brown9804/ML_DS_path/blob/main/0-dclevel_1/_docs/8_az_data_analytics.png)
 
+
+<!-- START BADGE -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20views-1022-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-07-11</p>
+</div>
+<!-- END BADGE -->
