@@ -1,19 +1,11 @@
 # Conda Essentials
 
-Used for Data Scientist Training Path 
-
-`FYI it's a compilation of how to work with different commands.`
-
-----------
-
 Costa Rica
-
-Belinda Brown, belindabrownr04@gmail.com
 
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [brown9804](https://github.com/brown9804)
 
-Feb, 2021
+March, 2021
 
 ----------
 
@@ -28,7 +20,14 @@ A Conda package, then, is a file containing all files needed to make a given pro
 
 ## Courses:
 
-- [Installing Packages](https://github.com/brown9804/ML_DS_Lpath/blob/main/2-dcconda_essentials/src/1_install_pckgs.sh)
-- [Utilizing Channels](https://github.com/brown9804/ML_DS_Lpath/blob/main/2-dcconda_essentials/src/2_use_channels.sh)
-- [Working with Environments](https://github.com/brown9804/ML_DS_Lpath/blob/main/2-dcconda_essentials/src/3_work_envs.sh)
-- [Case Study on Using Environments](https://github.com/brown9804/ML_DS_Lpath/blob/main/2-dcconda_essentials/src/4_use_envs.sh)
+- [Installing Packages](./2-dcconda_essentials/src/1_install_pckgs.sh)
+- [Utilizing Channels](./2-dcconda_essentials/src/2_use_channels.sh)
+- [Working with Environments](./2-dcconda_essentials/src/3_work_envs.sh)
+- [Case Study on Using Environments](./2-dcconda_essentials/src/4_use_envs.sh)
+
+<!-- START BADGE -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20views-1022-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-07-11</p>
+</div>
+<!-- END BADGE -->
